@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="btn_service_margin">10dp</dimen>
+    <dimen name="btn_permission_margin">10dp</dimen>
+    <dimen name="btn_resolver_margin">10dp</dimen>
+    <dimen name="textview_dimension">10sp</dimen>
 </resources>
