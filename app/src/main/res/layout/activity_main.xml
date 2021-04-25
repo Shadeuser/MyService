@@ -9,16 +9,4 @@
     android:id="@+id/container"
     tools:context=".MainActivity">
 
-    <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/btnContentResolver"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/btn_content_resolver_text"
-        android:background="@color/purple_500"
-        android:layout_margin="@dimen/btn_resolver_margin" />
-
-
-
-
-
 </LinearLayout>
